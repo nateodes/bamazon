@@ -1,0 +1,18 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "mysql app",
+  "main": "bamazon.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bamazon"
+  ],
+  "author": "nate",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^3.2.1",
+    "mysql": "^2.14.1"
+  }
+}
